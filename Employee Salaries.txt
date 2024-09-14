@@ -16,3 +16,5 @@ Pradeepg	 $94,884
 Kevstrat	$35,01
 Faraz       100000
 Irtaza      1000000
+Faraz       1231231231
+
